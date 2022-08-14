@@ -18,5 +18,5 @@ public class Exercise7_1 {
 		System.out.println(deck.pick(0));
 		
 	}
-
+	//
 }
