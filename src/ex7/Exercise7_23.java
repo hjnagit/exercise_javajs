@@ -1,7 +1,7 @@
 package ex7;
 
 public class Exercise7_23 {
-	
+	//면적의 합을 구하는 메서드
 	static double sumArea(Shape[] arr) {
 		
 		int sum = 0;
