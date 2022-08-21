@@ -3,7 +3,7 @@ package ex4;
 public class Exercise4_13 {
 
 	public static void main(String[] args) {
-		//숫자인지 판별하는
+		//숫자인지 판별하는 
 		String value = "12o34";
 		char ch = ' ';
 		boolean isNumber = true;
